@@ -51,7 +51,7 @@ export default function Footer() {
             <div className='flex flex-col gap-5 w-[22%] max-lg:w-full'>
                 <h3 className='text-3xl text-white font-semibold'>EXTERNAL LINKS</h3>                
                 <div className='flex flex-col gap-5'>
-                    <p className='cursor-pointer text-sm'>Africa Fashion Week London</p>
+                    <p className='cursor-pointer text-sm'>Africa Fashion Week Nigeria</p>
                     <p className='cursor-pointer text-sm'>Africa Fashion Week Abuja</p>
                     <p className='cursor-pointer text-sm'>Africa Ethically</p>                                                   
                 </div>
