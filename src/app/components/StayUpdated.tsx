@@ -15,7 +15,7 @@ export default function StayUpdated() {
             <div className='flex flex-col gap-6 w-[700px] max-lg:w-[300px] absolute bottom-[20%] right-[5%]'>
                 <h2 className='text-4xl text-white font-semibold max-lg:text-xl'>STAY UPDATED</h2>
                 <p className='text-base max-lg:text-xs text-white/50 leading-8'>
-                    Stay in the loop with all the latest updates from African Fashion Fusion 2025! Be the first to know about 
+                    Stay in the loop with all the latest updates from Africa Fashion Fusion 2025! Be the first to know about 
                     featured designers, event schedules, ticket releases, and exclusive behind-the-scenes content. 
                     Sign up for our newsletter and follow us on social media for real-time 
                     updates and sneak peeks. Don't miss out on the chance to immerse yourself in the 

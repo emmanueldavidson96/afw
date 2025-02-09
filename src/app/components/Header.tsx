@@ -12,8 +12,7 @@ export default function Header() {
                 <GiHamburgerMenu size={30} className='cursor-pointer'/>
                 <p className='uppercase text-sm tracking-widest cursor-pointer hover:text-yellow-500 transition-all duration-700'>Gallery</p>
                 <p className='uppercase cursor-pointer text-sm tracking-widest hover:text-yellow-500 transition-all duration-700'>About</p>
-                <p className='uppercase cursor-pointer text-sm tracking-widest hover:text-yellow-500 transition-all duration-700'>News</p>           
-               
+                <p className='uppercase cursor-pointer text-sm tracking-widest hover:text-yellow-500 transition-all duration-700'>News</p>         
             </nav>
 
             <p className='text-6xl font-extralight tracking-widest w-[20%] max-lg:w-full text-center ml-8'>AFWL</p>
@@ -25,10 +24,7 @@ export default function Header() {
                 <button className='bg-yellow-500 text-white text-xs py-2 px-5 rounded-md tracking-wide'>LSE</button>
                 <IoPersonCircleSharp size={30} className='cursor-pointer text-yellow-500'/>
             </nav>
-
-        </div>
-        
-
+        </div>       
     </header>
   )
 }

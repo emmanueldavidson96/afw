@@ -10,7 +10,7 @@ export default function Banner() {
         />
         <div className='absolute top-0 left-0 right-0 bottom-0 bg-black opacity-80'>
             <div className='flex w-[900px] max-lg:w-[400px] flex-col gap-4 absolute bottom-[25%] right-[5%] z-30'>
-              <h2 className='text-8xl max-lg:text-5xl uppercase font-black text-white text-right'>African Fashion Week London</h2>
+              <h2 className='text-8xl max-lg:text-5xl uppercase font-black text-white text-right'>Africa Fashion Week London</h2>
               <p className='text-2xl max-lg:text-lg tracking-widest text-white text-right'>where culture and creativity collide...</p>
               <div className='flex gap-8 items-center justify-end'>
                 <button className='w-fit px-16 max-lg:px-8 py-5 max-lg:py-3 max-lg:text-xs bg-yellow-500 text-white text-base rounded-md hover:scale-110 transition-all duration-700'>Register Now</button>
